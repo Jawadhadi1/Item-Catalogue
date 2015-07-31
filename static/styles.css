@@ -1,0 +1,71 @@
+h1 {
+	font-family: "Helvetica Neue Light", Roboto, Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	color: #51453B;
+	line-height: 50px;
+	font-weight: 200;
+}
+
+h2 {
+	font-size: 30px;
+	color: #42C3C9;
+	line-height: 25px;
+}
+
+h3 {
+	font-size: 15px;
+	color: #4A4A4A;
+	line-height: 22px;
+}
+ p {
+ 	font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
+ 	font-size: 15px;
+ 	color: #7B7573;
+ 	line-height: 30px;
+ 	font-weight: 300;
+ }
+
+ strong {
+ 	font-size: 15px;
+ 	color: #7B7573;
+ 	line-height: 25px;
+ }
+
+ a {
+ 	font-size: 15px;
+ 	color: #0093B9;
+ 	line-height: 20px;
+ }
+.padding-top {
+	padding-top: 25px;
+}
+.padding-bottom {
+	padding-bottom: 25px;
+}
+.margin-right {
+	margin-right: 25px;
+}
+.padding-none {
+	padding: 0;
+}
+.btn {
+	padding: 25px;
+	margin: 0;
+	border-color: #9FB80A;
+	border-width: 5px;
+	color: #9FB80A;;
+}
+.btn:hover {
+	border-color: #9FB80A;
+}
+.btn.delete {
+	border-color: #aaaaaa;
+	color: #aaaaaa;
+}
+.btn.delete:hover {
+	border-color: #aaaaaa;
+	color: blue;
+}
+.glyphicon {
+	margin-right: 15px;
+}
