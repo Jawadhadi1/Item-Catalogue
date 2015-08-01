@@ -8,9 +8,9 @@ Python
 
 ### **Setup Instructions**
 
-1.	First download and then install the python 2.7 module in your system.
+1.	First download and then install the [python 2.7](https://www.python.org/downloads/) module in your system.
 
-2.	Download and install SQLAlchemy.
+2.	Download and install [SQLAlchemy](http://www.sqlalchemy.org/download.html).
 
 3.	Clone this repository or download it as a zip file.
 
